@@ -1,0 +1,33 @@
+body{
+background:rgba(194, 194, 240, 0.336) ;
+font: normal 15pt Marker Felt, fantasy;
+text-align: center;
+color: black
+}
+
+header{
+color: white;
+text-align: center;
+
+}
+
+section{
+background: rgba(255, 255, 255, 0.596);
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: black 5px 5px 10px;
+
+
+}
+div {
+    text-align: center;
+    padding: 5px;
+}
+footer {
+color: white;
+text-align: center;
+font-style: italic;
+
+}
